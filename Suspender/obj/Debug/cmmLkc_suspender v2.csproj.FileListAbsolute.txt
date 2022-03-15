@@ -1,0 +1,8 @@
+C:\Users\PC\Desktop\bsj\auto suspender\새 폴더\cmmLkc_suspender v2\bin\Debug\cmmLkc_suspender v2.exe
+C:\Users\PC\Desktop\bsj\auto suspender\새 폴더\cmmLkc_suspender v2\bin\Debug\cmmLkc_suspender v2.pdb
+C:\Users\PC\Desktop\bsj\auto suspender\새 폴더\cmmLkc_suspender v2\obj\Debug\cmmLkc_suspender v2.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\bsj\auto suspender\새 폴더\cmmLkc_suspender v2\obj\Debug\olaf_007.frm1.resources
+C:\Users\PC\Desktop\bsj\auto suspender\새 폴더\cmmLkc_suspender v2\obj\Debug\cmmLkc_suspender v2.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\bsj\auto suspender\새 폴더\cmmLkc_suspender v2\obj\Debug\cmmLkc_suspender v2.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\bsj\auto suspender\새 폴더\cmmLkc_suspender v2\obj\Debug\cmmLkc_suspender v2.exe
+C:\Users\PC\Desktop\bsj\auto suspender\새 폴더\cmmLkc_suspender v2\obj\Debug\cmmLkc_suspender v2.pdb

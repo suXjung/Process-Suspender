@@ -1,0 +1,18 @@
+C:\Users\PC\Desktop\bsj\auto suspender\새 폴더\cmmLkc_suspender v2\bin\Debug\Process_suspender.exe
+C:\Users\PC\Desktop\bsj\auto suspender\새 폴더\cmmLkc_suspender v2\bin\Debug\Process_suspender.pdb
+C:\Users\PC\Desktop\bsj\auto suspender\새 폴더\cmmLkc_suspender v2\obj\Debug\Process_suspender.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\bsj\auto suspender\새 폴더\cmmLkc_suspender v2\obj\Debug\Process_suspender.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\bsj\auto suspender\새 폴더\cmmLkc_suspender v2\obj\Debug\Process_suspender.exe
+C:\Users\PC\Desktop\bsj\auto suspender\새 폴더\cmmLkc_suspender v2\obj\Debug\Process_suspender.pdb
+C:\Users\PC\Desktop\bsj\auto suspender\새 폴더\cmmLkc_suspender v2\bin\Debug\Process_suspender.exe.config
+C:\Users\PC\Desktop\bsj\auto suspender\새 폴더\cmmLkc_suspender v2\obj\Debug\Process_suspender.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\bsj\auto suspender\새 폴더\cmmLkc_suspender v2\obj\Debug\bsj_007.frm1.resources
+D:\!Background\bsj\auto suspender\새 폴더\git\Suspender\bin\Debug\Process_suspender.exe.config
+D:\!Background\bsj\auto suspender\새 폴더\git\Suspender\bin\Debug\Process_suspender.exe
+D:\!Background\bsj\auto suspender\새 폴더\git\Suspender\bin\Debug\Process_suspender.pdb
+D:\!Background\bsj\auto suspender\새 폴더\git\Suspender\obj\Debug\Process_suspender.csproj.AssemblyReference.cache
+D:\!Background\bsj\auto suspender\새 폴더\git\Suspender\obj\Debug\bsj_007.frm1.resources
+D:\!Background\bsj\auto suspender\새 폴더\git\Suspender\obj\Debug\Process_suspender.csproj.GenerateResource.cache
+D:\!Background\bsj\auto suspender\새 폴더\git\Suspender\obj\Debug\Process_suspender.csproj.CoreCompileInputs.cache
+D:\!Background\bsj\auto suspender\새 폴더\git\Suspender\obj\Debug\Process_suspender.exe
+D:\!Background\bsj\auto suspender\새 폴더\git\Suspender\obj\Debug\Process_suspender.pdb
